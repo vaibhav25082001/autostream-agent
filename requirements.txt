@@ -1,0 +1,17 @@
+# Core LangChain + LangGraph
+langchain==0.3.25
+langchain-core==0.3.59
+langgraph==0.4.1
+
+# LLM Providers — all three included
+langchain-anthropic==0.3.12        # Claude 3 Haiku
+langchain-openai==0.3.16           # GPT-4o-mini
+langchain-google-genai==2.1.4      # Gemini 1.5 Flash
+
+# Underlying SDKs
+anthropic==0.50.0
+openai==1.77.0
+google-generativeai==0.8.4
+
+# Env / utilities
+python-dotenv==1.1.0

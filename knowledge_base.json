@@ -1,0 +1,38 @@
+{
+  "product": {
+    "name": "AutoStream",
+    "description": "A SaaS product that provides automated video editing tools for content creators."
+  },
+  "pricing": {
+    "basic_plan": {
+      "name": "Basic Plan",
+      "price": "$29/month",
+      "videos_per_month": "10 videos/month",
+      "resolution": "720p",
+      "features": [
+        "10 videos per month",
+        "720p resolution",
+        "Standard editing tools",
+        "Email support"
+      ]
+    },
+    "pro_plan": {
+      "name": "Pro Plan",
+      "price": "$79/month",
+      "videos_per_month": "Unlimited videos",
+      "resolution": "4K",
+      "features": [
+        "Unlimited videos per month",
+        "4K resolution",
+        "AI captions",
+        "Advanced editing tools",
+        "Priority 24/7 support"
+      ]
+    }
+  },
+  "policies": {
+    "refund_policy": "No refunds after 7 days of subscription start.",
+    "support_policy": "24/7 support is available only on the Pro plan. Basic plan users get standard email support.",
+    "cancellation": "You may cancel your subscription at any time. Access continues until the end of the billing period."
+  }
+}
